@@ -1,0 +1,31 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Estudos em node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tymoria172/NodeJs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "html",
+    "express",
+    "fs",
+    "path",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "André Ricardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tymoria172/NodeJs/issues"
+  },
+  "homepage": "https://github.com/tymoria172/NodeJs#readme"
+}
